@@ -20,10 +20,10 @@ Be aware : the connectors is 2mm and not 2.54mm because it's the most commonly u
 ## Outputs
 ## GPIO
 ### GPIO1
-The GPIO 1 expose the GPIO 18 and 19, with ground and 3.3V on top of the board, with connectors like this : https://amzn.to/3OtbCLU, ground on right, 3.3V on left.
+The GPIO1 expose the GPIO 18 and 19, with ground and 3.3V on top of the board, with connectors like this : https://amzn.to/3OtbCLU, ground on right, 3.3V on left.
 
 ### GPIO2, 3, 4
-The GPIO 2, 3 and 3 expose the GPIO 23,25,26,27,32 and 33, with ground and V on the right of the board, with connectors like this : https://amzn.to/3OtbCLU
+The GPIO2, 3 and 3 expose the GPIO 23,25,26,27,32 and 33, with ground and V on the right of the board, with connectors like this : https://amzn.to/3OtbCLU
 To select the output voltage for the V pin, you can use the jumper Jout
 
 All these GPIO can have resistor, or simple wire if no resistor is required, on the center of the board.
