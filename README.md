@@ -39,4 +39,4 @@ Note : the track for all the GROUND and DC Power is 32mil width, it can handle u
 The uart is exposed on top right of the board with connecter like this : https://amzn.to/3IvOrMX
 
 ## I2C
-The I2C ports are exposed on top of the board, with connectors like this : https://amzn.to/3OtbCLU
+The I2C ports are exposed on top of the board, with connectors like this : https://amzn.to/3OtbCLU, ground on right, 3.3V on left.
