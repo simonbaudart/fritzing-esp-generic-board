@@ -7,6 +7,7 @@ You can power the board from :
 - A AC-DC converter with format HLK-PMxx, like this one : https://amzn.to/3MS7B2v, please check the format before buying because it's not standard.
   - You have to put the jumper Jin on 3.3V or 5V depending of the power supply
   - I suggest to power with 5V to ensure max output
+  
 The 140-220V AC input is provided with connector like these : https://amzn.to/3pWHxKi or https://amzn.to/43n3ArU
 
 ### DC Input
