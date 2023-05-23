@@ -1,6 +1,8 @@
 # Esp Generic Board
 The goal of this project is to build a PCB that exposes some of the generic output of a ESP32 DevKit on a PCB of 8 * 8cm
 
+![Board PCB](assets/esp-generic-board_pcb.png)
+
 ## Inputs
 ### Power Supply
 You can power the board from :
