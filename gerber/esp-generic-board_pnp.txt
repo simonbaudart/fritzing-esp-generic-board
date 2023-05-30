@@ -1,0 +1,47 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=esp-generic-board
+*Date=10:43:32
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;49.4846;-3.53132;90;Bottom;UART
+2;;;31.96;-21.4661;180;Bottom;U1
+3;;;56.4555;-76.5703;0;Bottom;Hole3
+4;;;18.7099;-25.2879;0;Bottom;TXT1
+5;;THT;12.0196;-3.53132;90;Bottom;I2CB
+6;;THT;38.6896;-3.53132;90;Bottom;I2C
+7;;THT;45.6604;-73.5756;90;Bottom;GND
+8;;;26.6957;-58.7412;0;Bottom;HLK-PM1
+9;;;16.6936;-46.9435;0;Bottom;TXT2
+10;0;THT;41.8505;-42.2804;90;Bottom;23
+11;0;THT;29.1505;-42.2804;90;Bottom;27
+12;;;3.11554;-3.54535;0;Bottom;Hole1
+13;;;16.5725;-37.4107;0;Bottom;TXT2
+14;;THT;48.8355;-61.3304;0;Bottom;GPIO4
+15;;THT;25.3546;-3.53132;90;Bottom;GPIO1
+16;;;56.4555;-3.54535;0;Bottom;Hole2
+17;;THT;56.4555;-61.3304;0;Bottom;GPIO3
+18;;;3.11554;-76.5703;0;Bottom;Hole4
+19;;THT;48.8355;-46.7254;0;Bottom;GPIO2
+20;;THT;30.4204;-73.5756;90;Bottom;3V3
+21;;THT;15.1804;-73.5756;90;Bottom;5V
+22;0;THT;36.7705;-42.2804;90;Bottom;33
+23;;;18.5733;-18.9128;0;Bottom;TXT1
+24;;jst-2-pth;5.21543;-38.8354;90;Bottom;V3.3
+25;;;18.371;-22.1002;0;Bottom;TXT1
+26;;THT;15.1805;-42.2804;0;Bottom;Jin
+27;;THT;5.47535;-58.7714;0;Bottom;AC
+28;;jst-2-pth;5.21543;-47.7254;90;Bottom;V5.0
+29;0;THT;34.2305;-42.2804;90;Bottom;25
+30;0;THT;31.6905;-42.2804;90;Bottom;26
+31;;THT;18.3555;-42.2804;0;Bottom;Jout
+32;0;THT;39.3105;-42.2804;90;Bottom;32
